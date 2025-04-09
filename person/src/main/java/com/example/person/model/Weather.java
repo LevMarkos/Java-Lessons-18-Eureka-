@@ -10,8 +10,7 @@ public class Weather {
         this.temperature = temperature;
         this.condition = condition;
     }
-
-    // Геттеры и сеттеры
+    
     public String getLocation() {
         return location;
     }
