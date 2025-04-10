@@ -42,6 +42,6 @@ public class Weather {
     }
 
     public void setLocation(String location) {
-        this.location = location; // Исправлен метод setLocation
+        this.location = location;
     }
 }
